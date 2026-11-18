@@ -29,4 +29,4 @@ Digital Hardware Engineer passionate on:
 "Don't just use technology. Understand how it works. Build something better."
 
 [ END OF TRANSMISSION ]
-DEDSEC // STAY CURIOUS.
+// STAY CURIOUS.
